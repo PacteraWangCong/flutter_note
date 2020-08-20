@@ -44,8 +44,6 @@ Flutter是谷歌的移动UI框架，可以快速在iOS和Android上构建高质�
 
    这里我推荐使用第三方库，api请求：[dio](https://pub.flutter-io.cn/packages/dio)，model映射：[dart_json_mapper](https://pub.flutter-io.cn/packages/dart_json_mapper)。
 
-   如何结合使用参考[minefocus_base_flutter](https://github.com/minefocus/minefocus_base_flutter)。
-
 4. #### [Flutter多Scheme对应和打包](https://github.com/minefocus/flutter_note/tree/master/Schemes_&_Build)。
 
 5. #### [Jenkins集成](https://github.com/PacteraWangCong/flutter_note/tree/master/Jenkins)。
